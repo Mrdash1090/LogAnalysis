@@ -1,3 +1,6 @@
+# project URL
+https://roadmap.sh/projects/nginx-log-analyser
+
 # Nginx Log Analyzer
 
 This shell script processes an Nginx access log file and provides insights into:
